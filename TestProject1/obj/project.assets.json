@@ -7841,8 +7841,8 @@
     },
     "MotorcycleRent/1.0.0": {
       "type": "project",
-      "path": "../ReactVentas/MotorcycleRent.csproj",
-      "msbuildProject": "../ReactVentas/MotorcycleRent.csproj"
+      "path": "../Reactventas/MotorcycleRent.csproj",
+      "msbuildProject": "../Reactventas/MotorcycleRent.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -7860,11 +7860,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alvar\\Desktop\\075_SistemaVenta_React_AspNetCore\\TestProject1\\TestProject1.csproj",
+      "projectUniqueName": "C:\\Users\\alvar\\Desktop\\Archivos por materias\\Sexto\\Software II\\075_SistemaVenta_React_AspNetCore\\TestProject1\\TestProject1.csproj",
       "projectName": "TestProject1",
-      "projectPath": "C:\\Users\\alvar\\Desktop\\075_SistemaVenta_React_AspNetCore\\TestProject1\\TestProject1.csproj",
+      "projectPath": "C:\\Users\\alvar\\Desktop\\Archivos por materias\\Sexto\\Software II\\075_SistemaVenta_React_AspNetCore\\TestProject1\\TestProject1.csproj",
       "packagesPath": "C:\\Users\\alvar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alvar\\Desktop\\075_SistemaVenta_React_AspNetCore\\TestProject1\\obj\\",
+      "outputPath": "C:\\Users\\alvar\\Desktop\\Archivos por materias\\Sexto\\Software II\\075_SistemaVenta_React_AspNetCore\\TestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alvar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7881,8 +7881,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\alvar\\Desktop\\075_SistemaVenta_React_AspNetCore\\ReactVentas\\MotorcycleRent.csproj": {
-              "projectPath": "C:\\Users\\alvar\\Desktop\\075_SistemaVenta_React_AspNetCore\\ReactVentas\\MotorcycleRent.csproj"
+            "C:\\Users\\alvar\\Desktop\\Archivos por materias\\Sexto\\Software II\\075_SistemaVenta_React_AspNetCore\\ReactVentas\\MotorcycleRent.csproj": {
+              "projectPath": "C:\\Users\\alvar\\Desktop\\Archivos por materias\\Sexto\\Software II\\075_SistemaVenta_React_AspNetCore\\ReactVentas\\MotorcycleRent.csproj"
             }
           }
         }

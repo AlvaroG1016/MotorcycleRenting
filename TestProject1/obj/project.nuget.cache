@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z8vXkWzknLaLCdyMPGUXFshpxjN8ZCnEYXdgssv1hw8jhauRmwdKyfEYUDojZdxg69Ft9JNF73ClWH7xaGgQxw==",
+  "dgSpecHash": "Mbg/lZAD/dqnLBIsC5mdfnUZ5nVwXPmyJ7odHJkiztuXz2deeXN/bA6tuRUm8yUu3SDRrccHPjhhJO4xEenXzA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alvar\\Desktop\\075_SistemaVenta_React_AspNetCore\\TestProject1\\TestProject1.csproj",
+  "projectFilePath": "C:\\Users\\alvar\\Desktop\\Archivos por materias\\Sexto\\Software II\\075_SistemaVenta_React_AspNetCore\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alvar\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\alvar\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\6.0.1\\microsoft.aspnetcore.spaproxy.6.0.1.nupkg.sha512",
